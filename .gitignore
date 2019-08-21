@@ -8,3 +8,6 @@ _ReSharper.*
 *~
 *.log
 packages
+.vs
+*.ncrunchsolution
+/_NCrunch_AutofacContrib.NSubstitute/
